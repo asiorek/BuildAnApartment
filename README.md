@@ -4,7 +4,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Course: VR Scenes & Objects
 - Project: Build an Apartment
 
-Project is submitted for Android platform.
+Project is submitted for iOS platform. Due to size restrictions I was not able to include a build zip file, which has approximately 400 MB.
 
 ### Versions Used
 - [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
